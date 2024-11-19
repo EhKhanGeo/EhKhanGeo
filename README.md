@@ -1,4 +1,4 @@
-![logo](https://github.com/ehsankhan77/ehsankhan77/blob/main/Pic.jpg)
+![logo](https://github.com/EhKhanGeo/EhKhanGeo/blob/main/Pic.jpg)
 
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">A remote sensing P.h.D candidate from Iran</h3>
