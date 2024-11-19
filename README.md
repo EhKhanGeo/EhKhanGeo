@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **new deep learning models and transfer learning techniques**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ehsankhan77](https://github.com/ehsankhan77)
+- 👨‍💻 All of my projects are available at [https://github.com/ehsankhan77](https://github.com/EhKhanGeo)
 
 - 💬 Ask me about **Satellite image processing, Deep Learning**
 
